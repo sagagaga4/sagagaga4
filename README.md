@@ -1,16 +1,11 @@
-## Hi there 👋
+## Hi there I am SAGI👋
 
-<!--
-**sagagaga4/sagagaga4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 2nd-year Computer Science Student
+💡 Passionate about AI, Backend Systems, Full-Stack Development, Design Patterns & Scalable Systems
+👨‍💻 I love building things that combine logic, creativity, and human impact :)
+ 
+[![GitHub Streak](https://streak-stats.demolab.com?user=sagagaga4&theme=holi-theme&border_radius=3.6)](https://git.io/streak-stats)
+## 📌 Featured Goals
+- ✅ Land my first developer job with standout **JS projects**  
+- 🧠 Create projects that are both **technically solid** and **socially impactful**  
+- 🌐 Contribute to **open-source** and grow as a developer  
