@@ -1,8 +1,10 @@
 ## Hello there I am SAGI👋
 - 🎓 2nd-year Computer Science Student
 - 💡 Passionate about AI, Backend Systems, Full-Stack Development, Design Patterns & Scalable Systems
-- 👨‍💻 I love building things that combine logic, creativity, and human impact :)
-### Tech Stack
+- 👨‍💻 I love building apps and tools that combine human impact, cool logic and UI creativity :)
+  
+### Tech Stack 🧑🏻‍💻
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
