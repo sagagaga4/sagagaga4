@@ -1,11 +1,13 @@
-## Hello there I am SAGI👋
+## 👋 Hello there I am SAGI
 **`(Developer | Computer Science Student)`**
 
 - 🎓 2nd-year Computer Science Student
 - 💡 Passionate about AI, Backend Systems, Full-Stack Development, Design Patterns & Scalable Systems
 - 👨‍💻 I love building apps and tools that combine human impact, cool logic and UI creativity :)
 - 📝 All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code
-  
+
+##
+
 ### 🧰 Languages and DB
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -31,13 +33,10 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+#
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagagaga4&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
-#
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sagagaga4&theme=javascript-dark&border_radius=3.6)](https://git.io/streak-stats)
+![Sagagagas's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagagaga4&show_icons=true&theme=gruvbox)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sagagaga4&theme=gruvbox)](https://git.io/streak-stats)
