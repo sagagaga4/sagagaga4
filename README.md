@@ -39,6 +39,6 @@
 
 ### 📊 Stats
 
-
-![Sagagagas's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagagaga4&show_icons=true&theme=gruvbox)
 [![GitHub Streak](https://streak-stats.demolab.com?user=sagagaga4&theme=gruvbox)](https://git.io/streak-stats)
+![Sagagagas's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagagaga4&show_icons=true&theme=gruvbox)
+
