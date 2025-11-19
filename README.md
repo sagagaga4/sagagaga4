@@ -1,4 +1,4 @@
-## 👋 Hello there I am SAGI
+## 👋 Hello there
 **`(Developer | Computer Science Student)`**
 
 - 🎓 2nd-year Computer Science Student
