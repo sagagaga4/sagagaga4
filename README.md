@@ -1,7 +1,7 @@
 ## 👋 Hello there
 **`(Developer | Computer Science Student)`**
 
-- 🎓 2nd-year Computer Science Student
+- 🎓 3rd-year Computer Science Student
 - 💡 Passionate about AI, Backend Systems, Full-Stack Development, Design Patterns & Scalable Systems
 - 👨‍💻 I love building apps and tools that combine human impact, cool logic and UI creativity :)
 - 📝 All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code
